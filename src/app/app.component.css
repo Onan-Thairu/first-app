@@ -1,0 +1,36 @@
+.container {
+  background-color: aqua;
+  width: 80vw;
+  margin: 1em auto;
+}
+.header {
+  text-align: center;
+}
+button {
+  margin-bottom: 1em;
+}
+table {
+  background-color: gray;
+  width: 80%;
+  margin: .5em auto;
+  text-align: start;
+  padding: 1em;
+}
+th {
+  text-align: start;
+  margin-bottom: .6em;
+  border-bottom: 1px solid #fff;
+}
+td {
+  margin-bottom: 1em;
+}
+
+input {
+  margin-top: .5em;
+  padding: .7em;
+  width: 200px;
+  
+}
+#submit {
+  width: 223px
+}
